@@ -15,7 +15,7 @@ del curso "Desarrollador web con React.Js" de la UTN para Argentina Programa 4.0
 
 ## Uso
 Para ejecutar el proyecto, utiliza el siguiente comando en el front: `npm start`
-Para ejecutar el proyecto, utiliza el siguiente comando en el back: `npm start`
+Para ejecutar el proyecto, utiliza el siguiente comando en el back: `npx json-server --watch db.json`
 
 ## Licencia
 ESTE REPOSITORIO FUE CREADO CON **FINES EDUCATIVOS** EXCUSIVAMENTE PARA:
